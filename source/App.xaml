@@ -1,9 +1,0 @@
-﻿<Application x:Class="The_Satan_Records_Legacy_Audio_Player.App"
-             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:The_Satan_Records_Legacy_Audio_Player"
-             StartupUri="MainWindow.xaml">
-    <Application.Resources>
-         
-    </Application.Resources>
-</Application>
