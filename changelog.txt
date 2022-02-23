@@ -1,0 +1,7 @@
+## The Satan Records Legacy Audio Player ##
+
+# Version 1.0.0
+
+"The Satan Records Legacy Audio Player" is the "same" - or at least it tries to be - as "The Satan Records Audio Player", except that it uses WPF (a deprecated technology, but still useful) and exists as a STANDALONE .EXE file, meaning that you DON'T have to install anything to use it.
+
+What can you do with TSRLAP ("The Satan Records Legacy Audio Player")? Listen to music from The Satan Records bands. See https://www.thesatan.com/bands
